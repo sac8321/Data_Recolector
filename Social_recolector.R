@@ -26,12 +26,12 @@ library(sqldf)
 bot_facebook = fb_bot$new()
 bot_facebook$login(
   username = "sac8321@gmail.com",
-  password = "Cosito8321.")
+  password = "")
 
 bot_twitter=tw_bot$new()
 bot_twitter$login(
   username = "sac8321@gmail.com",
-  password = "Coopedota8321."
+  password = ""
 )
 
 
